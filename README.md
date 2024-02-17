@@ -1,4 +1,4 @@
-# Youtube-concept - учебный проект Glo academy
+# Youtube-concept -
 Проект выполнил: Олег Исаков
 
 ##Используемые технологии
